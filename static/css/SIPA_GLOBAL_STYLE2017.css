@@ -1,0 +1,492 @@
+.sipaEPMteamBanner {
+background: url('https://sc3online.com/SIPA/sipaEPMTeamBanner_2.jpg') repeat-x center center;
+}
+
+.sipaEPMbanner {
+background: url('https://sc3online.com/SIPA/sipaEPMbannerBG01.jpg') no-repeat center center;
+}
+
+.sipaEPMteamBanner2 {
+background: url('https://sc3online.com/SIPA/sipaEPMTeamBanner.png') repeat-x center center;
+}
+
+.behindScenesMPA {
+background: url('https://sc3online.com/SIPA/behindthescenes01.jpg') repeat-x center center;
+}
+
+.behindScenesQT {
+background: url('https://sc3online.com/SIPA/behindthescenes02.jpg') repeat-x center center;
+}
+
+.ui-widget {
+    font-size: 12px;
+}
+
+.behindScenesSD {
+background: url('https://sc3online.com/SIPA/behindthescenesSD.jpg') repeat-x center center;
+}
+
+.behindScenesDM {
+background: url('https://sc3online.com/SIPA/behindthescenesDM.jpg') repeat-x center center;
+}
+
+.btsSpring2016 {
+background: url('https://sc3online.com/SIPA/btsSpring2016.jpg') repeat-x center center;
+}
+
+
+
+/* 2017 Global Food Systems Styles  */
+
+.GFbanner {
+	background: url('http://dexpr.com/sipa/GlobalFoodsBanner2.jpg') no-repeat center center;
+	background-color: #f5f5f5;
+	height: 110px;
+
+}
+
+.GFbanner p{
+	font-size: 25px;
+	font-weight: 200;
+	color: #FFFFFF;
+	letter-spacing: -1px;
+}
+
+.GFbanner p.semesterSubtitle {
+	font-size: 18px;
+	font-weight: 200px;
+	padding: 0;
+	letter-spacing: -1px;
+	color: #F5F5F5;
+	margin-top: 0;
+}
+
+.GFslimbanner {
+	background: url('http://dexpr.com/sipa/GlobalFoodsSlimBanner.jpg') no-repeat center center;
+	background-color: #008ee2;
+	height: 60px;
+
+}
+
+.GFslimbanner p{
+	font-size: 18px;
+	font-weight: 200;
+	color: #FFFFFF;
+	letter-spacing: -1px;
+	padding: 17px 0 5px 20px;
+}
+
+.noTextDec {
+	text-decoration: none;
+}
+
+.embed-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.welcome {
+    background: #f5f5f5;
+    font-size: 14px;
+    padding: 12px;
+    color: #333333;
+}
+
+.welcome a{
+    font-size: 14px;
+    color: #333333;
+	text-decoration: none;
+}
+
+
+/* ----------------- OVERRIDING CANVAS DEFAULT STYLES ------------------- */
+
+.ig-published:not(.student-view) .ig-type-icon {
+    background-color: #008EE2;
+}
+
+.ig-list .ig-row.ig-published:not(.student-view):before {
+    background-color: #008EE2;
+    border-top: 1px solid #008EE2;
+    border-bottom: 1px solid #008EE2;
+}
+
+.user_content table:not([cellpadding]) td, .mceContentBody table:not([cellpadding]) td {
+    padding: 10px;
+}
+
+
+.weeklyIconImg {
+	position: relative;
+	width: 100%; /* for IE 6 */
+}
+
+.weeklyIcon h2 {
+	position: absolute;
+	top: 100px;
+	left: 0;
+	width: 100%;
+}
+
+.weeklyIcon h2 span {
+	color: white;
+	font: bold 24px/45px Helvetica, Sans-Serif;
+	letter-spacing: -1px;
+	background: rgb(0, 142, 226); /* fallback color */
+	background: rgba(0, 142, 226, 1);
+	padding: 10px;
+}
+
+.readingList li {
+	font-size: 12px;
+	padding: 5px 0;
+}
+
+.casesBanner {
+	position: relative;
+	width: 100%; /* for IE 6 */
+	margin-bottom: 10px;
+}
+
+.casesList li {
+	list-style: none;
+}
+
+.blueBG {
+	background-color: #008EE2;
+	color: #FFFFFF;
+}
+
+.spaceTop {
+	margin-top: 10px;
+}
+
+
+
+/* ----------------- 2017 SIPA GLOBAL THEME STYLES (STV1) ------------------- */
+
+	.STV1_Banner {
+		background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_Banner.jpg') no-repeat center center;
+		background-color: #008ee2;
+		height: 110px;
+	}
+
+  .STV1_Banner02 {
+		background: url('http://dexpr.com/sipa/STV1_Banner02.jpg') no-repeat center center;
+		background-color: #008ee2;
+		height: 110px;
+	}
+
+  .STV1_Banner03 {
+		background: url('http://dexpr.com/sipa/STV1_Banner03.jpg') no-repeat center center;
+		background-color: #f5f5f5;
+		height: 110px;
+	}
+
+  .STV1_Banner04 {
+		background: url('http://dexpr.com/sipa/STV1_Banner04.jpg') no-repeat center center;
+		background-color: #f5f5f5;
+		height: 110px;
+	}
+
+  .CU01 {
+    background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_BannerCU.jpg') no-repeat center center;
+		background-color: #92aebf;
+  }
+
+  .BB01 {
+    background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_Banner.jpg') no-repeat center center;
+		background-color: #92aebf;
+  }
+
+  .BB02 {
+    background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_Banner.jpg') no-repeat center center;
+		background-color: #92aebf;
+  }
+
+  .BB03 {
+    background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_Banner.jpg') no-repeat center center;
+		background-color: #92aebf;
+  }
+
+  .SIPA {
+    background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_Banner.jpg') no-repeat center center;
+    background-color: #008ee2;
+  }
+
+  .SSW {
+		background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_BannerSSW.jpg') no-repeat center center;
+		background-color: #92aebf;
+	}
+
+  .SSW2 {
+    background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_BannerSSWBaked.jpg') no-repeat center center;
+    background-color: #92aebf;
+  }
+
+  .MM {
+    background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/mailmanschool-bk-1200x200.jpg') no-repeat center center;
+    background-color: #92aebf;
+  }
+
+
+
+	.STV1_Banner  p{
+		font-size: 21px;
+		font-weight: 200;
+		color: #FFFFFF;
+		letter-spacing: -1px;
+		padding: 10px 0 0 32px;
+		margin: 0;
+	}
+
+  .STV1_Banner p.logo{
+    padding: 0;
+    margin: 0;
+  }
+
+  .STV1_Banner p.logo:before{
+    content : url(https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/SipaLogo2.png);
+  }
+
+	.STV1_Banner p.STV1_CourseCode {
+		font-size: 18px;
+		font-weight: 200px;
+		padding: 0 0 0 32px;
+		letter-spacing: -1px;
+		color: #F5F5F5;
+		margin: 0;
+	}
+
+	.STV1_SlimBanner {
+		background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_BannerSlim.jpg') no-repeat center center;
+		background-color: #008ee2;
+		height: 60px;
+	}
+
+	.SIPA_Slim {
+		background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_BannerSlim.jpg') no-repeat center center;
+		background-color: #008ee2;
+	}
+
+	.CU01_Slim {
+		background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_BannerCUSlim.jpg') no-repeat center center;
+		background-color: #92aebf;
+	}
+
+  .SSW_Slim {
+		background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/STV1_SlimBannerSSW.jpg') no-repeat center center;
+		background-color: #92aebf;
+	}
+
+  .MM_Slim {
+		background: url('https://s3.us-east-2.amazonaws.com/sipa-canvas/canvas-images/mailmanschool-bk-1200x60.jpg') no-repeat center center;
+		background-color: #92aebf;
+	}
+
+	.STV1_SlimBanner p{
+		font-size: 18px;
+		font-weight: 200;
+		color: #FFFFFF;
+		letter-spacing: -1px;
+		padding: 17px 0 5px 20px;
+	}
+
+	.STV1_Welcome {
+		background: #f5f5f5;
+		font-size: 14px;
+		padding: 12px;
+		color: #333333;
+	}
+
+	.STV1_Welcome a{
+		font-size: 14px;
+		color: #333333;
+		text-decoration: none;
+	}
+
+	.STV1_WeeklyIconIMG {
+		position: relative;
+		width: 100%;
+	}
+
+	.STV1_WeeklyIcon h2 {
+		position: absolute;
+		top: 100px;
+		left: 0;
+		width: 100%;
+	}
+
+	.STV1_WeeklyIcon h2 span {
+		color: white;
+		font: bold 24px/45px Helvetica, Sans-Serif;
+		letter-spacing: -1px;
+		background: rgb(0, 142, 226); /* fallback color */
+		background: rgba(0, 142, 226, 1);
+		padding: 10px;
+	}
+
+  .STV1_PhotoBox {
+		background-color: #F5F5F5;
+		height: 60px;
+  }
+
+	.STV1_UL01 {
+		/* margin-left: 20px; */
+	}
+
+	.STV1_UL01 li {
+		font-size: 12px;
+		padding: 5px 0;
+	}
+
+	.STV1_UL02 {
+		margin: 5px 0 0 0;
+		padding: 0;
+	}
+
+	.STV1_UL02 li {
+		list-style: none;
+		font-size: 12px;
+		padding: 0;
+	}
+
+	.STV1_CaseBanner {
+		position: relative;
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+	.STV1_CaseList li {
+		list-style: none;
+	}
+
+	.STV1_ButtonSpacing {
+		margin: 5px 5px 0 20px;
+	}
+
+	.STV1_CC_Banner01 {
+		background: url('https://courseworks2.columbia.edu/courses/44225/files/1254052/preview') no-repeat center center;
+		background-color: #000000;
+		height: 150px;
+	}
+
+	.STV1_CC_Banner02 {
+		background: url('https://courseworks2.columbia.edu/courses/44225/files/1254050/preview') no-repeat center center;
+		background-color: #000000;
+		height: 150px;
+	}
+
+	.STV1_CC_Banner03 {
+		background: url('https://courseworks2.columbia.edu/courses/44225/files/1254049/preview') no-repeat center center;
+		background-color: #000000;
+		height: 150px;
+	}
+
+	.STV1_CC_Banner04 {
+		background: url('https://courseworks2.columbia.edu/courses/44225/files/1254047/preview') no-repeat center center;
+		background-color: #000000;
+		height: 150px;
+	}
+
+	.STV1_CC_Banner05 {
+		background: url('https://courseworks2.columbia.edu/courses/44225/files/1254048/preview') no-repeat center center;
+		background-color: #000000;
+		height: 150px;
+	}
+
+	.STV1_CC_Banner06 {
+		background: url('https://courseworks2.columbia.edu/courses/44225/files/1254051/preview') no-repeat center center;
+		background-color: #000000;
+		height: 150px;
+	}
+
+	.STV1_CC_Banner07 {
+		background: url('https://courseworks2.columbia.edu/courses/46186/files/1310288/preview') no-repeat center center;
+		background-color: #000000;
+		height: 150px;
+	}
+
+	.STV1_CC_Banner08 {
+		background: url('https://courseworks2.columbia.edu/courses/46186/files/1310289/preview') no-repeat center center;
+		background-color: #000000;
+		height: 150px;
+	}
+
+	.STV1_CC_BannerTitle {
+		position: relative;
+		width: 35%;
+		font-size: 18px;
+		color: #FFFFFF;
+		background-color: #000000;
+		padding: 10px 20px 10px 10px;
+		vertical-align: bottom;
+		text-align: right;
+		top: 50%;
+	}
+
+	.STV1_CasesH3 {
+		margin: 10px 0 5px 0;
+		border-bottom: 1px solid #CCCCCC;
+		padding: 0 0 5px 0;
+	}
+
+  .STV1_BlueBG {
+    background-color: #008ee2;
+    min-height: 50px;
+    max-width: 400px;
+    text-align: center;
+  }
+
+  .STV1_SyllabusPhoto {
+    /* reserved */
+  }
+
+	/* OVERRIDING CANVAS DEFAULT STYLES */
+
+		.ig-published:not(.student-view) .ig-type-icon {
+      color: #FFF;
+			background-color: #008EE2;
+      height: 40px;
+      width: 40px;
+      border-radius: 40px;
+		}
+
+		.ig-list .ig-row.ig-published:not(.student-view):before {
+			background-color: #008EE2;
+			border-top: 1px solid #008EE2;
+			border-bottom: 1px solid #008EE2;
+		}
+
+		.user_content table:not([cellpadding]) td, .mceContentBody table:not([cellpadding]) td {
+			padding: 10px;
+		}
+
+	/* VIDEO EMBEDDING & RESPONSIVENESS */
+
+		.embed-container {
+			position: relative;
+			padding-bottom: 56.25%;
+			height: 0;
+			overflow: hidden;
+			max-width: 100%;
+		}
+
+		.embed-container iframe, .embed-container object, .embed-container embed {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
